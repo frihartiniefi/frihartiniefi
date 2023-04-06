@@ -1,8 +1,9 @@
 ### Hi there i'm Efi! 👋
+<!--<img src="https://ibb.co/6XFsB5j"/><br> -->
 I'm a passionate data and design driven enthusiast with a information system & multimedia background.
 
 👀 I’m interested in data analyst and enjoy exploring everything about data.<br>
-🏆 I have completed <a href = "https://coursera.org/share/b838cf2d34cb2ad2cccdac4e987848cb">Google Data Analytics Professional Certificate.<br></a>
+🏆 I have completed <a href = "https://coursera.org/share/1c85690bb0cf62dafa0a7eeec6789827">Google Data Analytics Professional Certificate.<br></a>
 📖 I'm currently learning about Data Analyst.<br>
 
 
